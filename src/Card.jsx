@@ -5,7 +5,7 @@ const Card = () => {
     <div className="grid h-screen place-items-center">
       <div className="absolute  inset-x-[50%] bg-white rounded-r-xl min-w-[100px] h-[620px] sm:w-[25%] w-[35%]">
         <h1 className="pt-8 pb-4 px-6 mons color1">P E R F U M E</h1>
-        <h1 className="px-6 text-xl sm:text-2xl md:text-3xl lg:text-5xl xl:text-7xl text-left fraunce text-black">
+        <h1 className="px-6 text-xl sm:text-2xl md:text-3xl lg:text-3xl xl:text-5xl text-left fraunce text-black">
           Gabrielle Essence Eau De Parfum
         </h1>
         <p className="mons text-sm md:text-md lg:text-lg xl:text-2xl color1 px-6 py-4 font-medium text-left">
